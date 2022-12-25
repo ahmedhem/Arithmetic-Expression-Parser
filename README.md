@@ -1,7 +1,7 @@
 # Arithmetic Expression Scanner and Parser
 This project is part of compiler design course.
 
-###It support four arithmitic operations:
+### It support four arithmitic operations:
 - Addition '+'
 - Substration '-'
 - Multiplication '*'
